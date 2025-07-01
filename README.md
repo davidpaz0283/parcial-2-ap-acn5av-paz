@@ -117,6 +117,25 @@ Se eligió una combinación de Scrum y Kanban para aprovechar lo mejor de ambas 
 
 ---
 
-**Versión del documento:** 1.1  
-**Fecha:** 2025-06-20  
-**Autor:** David Paz
+Objetivo General del Proyecto
+
+Formato SMART
+S (Specific / Específico):
+Desarrollar una aplicación móvil para la gestión de jugadores de clubes deportivos pequeños y medianos, que permita administrar usuarios con roles diferenciados, gestionar datos de jugadores, y facilitar la comunicación interna del club.
+M (Measurable / Medible):
+Lograr que el sistema permita registrar y gestionar al menos 100 jugadores y 10 usuarios con roles distintos, con un 95% de precisión en la validación de datos y control de acceso.
+A (Achievable / Alcanzable):
+Implementar funcionalidades básicas de CRUD, autenticación y control de acceso en un plazo de 8 semanas, utilizando tecnologías accesibles como Android Studio y Firebase.
+R (Relevant / Relevante):
+El proyecto responde a la necesidad de los clubes deportivos pequeños y medianos de mejorar la organización y comunicación interna de manera eficiente y moderna.
+T (Time-bound / Temporal):
+Finalizar el desarrollo de la versión funcional para entrega parcial en un plazo máximo de 8 semanas, con entregas parciales cada 2 semanas para revisión y ajustes.
+
+Formato OKR
+Objetivo:
+Desarrollar una aplicación móvil funcional para la gestión eficiente de jugadores y usuarios en clubes deportivos, mejorando la organización y comunicación interna.
+Key Results:
+oKR1: Completar la implementación del registro y autenticación de usuarios con roles diferenciados (administrador y director técnico) en 3 semanas.
+oKR2: Implementar el CRUD completo para jugadores con validación de datos en 5 semanas.
+oKR3: Integrar un sistema básico de comunicación interna (mensajería o notificaciones) en 7 semanas.
+oKR4: Realizar pruebas y ajustes finales, con al menos 3 ciclos de feedback, para la entrega parcial en 8 semanas.
