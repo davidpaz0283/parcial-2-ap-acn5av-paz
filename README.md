@@ -165,3 +165,20 @@ Análisis de Interesados (Stakeholders)
 
 Versión:
 Versión 1.1 (porque es una mejora sobre el documento inicial).
+
+
+Metodología Ágil Elegida
+
+Metodología: Scrum combinada con Kanban
+Justificación:
+Se eligió una combinación de Scrum y Kanban para aprovechar lo mejor de ambas metodologías y adaptarnos a las necesidades del proyecto.
+Scrum aporta una estructura definida con roles, reuniones y sprints, lo que facilita la organización del equipo, la planificación y el seguimiento de las tareas en ciclos cortos.
+Kanban aporta flexibilidad en la gestión visual del flujo de trabajo, permitiendo que el equipo se enfoque en las tareas actuales, limite el trabajo en curso (WIP) y mejore continuamente.
+El trabajo se organiza en sprints de dos semanas con reuniones de planificación, seguimiento diario (daily stand-ups) y retrospectivas.
+Se utiliza un tablero Kanban para visualizar el progreso y mover las tareas entre columnas (Backlog, To Do, Doing, Testing, Done).
+Se limita el trabajo en curso para evitar sobrecarga y mejorar el enfoque.
+Se promueve la comunicación constante y la adaptación a cambios durante el desarrollo.
+Roles principales: Product Owner, Scrum Master y equipo de desarrollo.
+
+Versión:
+Versión 1.2 (con actualización en metodología y estructura de trabajo).
