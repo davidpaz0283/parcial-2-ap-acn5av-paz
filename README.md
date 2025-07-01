@@ -139,3 +139,29 @@ oKR1: Completar la implementación del registro y autenticación de usuarios con
 oKR2: Implementar el CRUD completo para jugadores con validación de datos en 5 semanas.
 oKR3: Integrar un sistema básico de comunicación interna (mensajería o notificaciones) en 7 semanas.
 oKR4: Realizar pruebas y ajustes finales, con al menos 3 ciclos de feedback, para la entrega parcial en 8 semanas.
+
+
+Análisis de Interesados (Stakeholders)
+1.Administrador del Club
+Rol: Usuario principal con acceso completo al sistema.
+Intereses: Gestión integral de jugadores y usuarios, control de permisos, supervisión de actividades.
+Expectativas: Que el sistema sea seguro, fácil de usar y permita controlar toda la información del club.
+Influencia: Alta
+Impacto: Alto
+
+2.Director Técnico (DT)
+Rol: Usuario con permisos limitados, principalmente para gestionar jugadores y sus estadísticas.
+Intereses: Acceso a datos actualizados de jugadores, facilidad para realizar cambios y seguimiento.
+Expectativas: Que la app sea rápida y permita gestionar información sin complicaciones.
+Influencia: Media
+Impacto: Medio
+
+3.Jugadores
+Rol: Usuarios que acceden a información personal y notificaciones.
+Intereses: Visualizar sus estadísticas, recibir comunicados, mantener su perfil actualizado.
+Expectativas: Que la app sea accesible y segura para proteger su información.
+Influencia: Baja
+Impacto: Bajo
+
+Versión:
+Versión 1.1 (porque es una mejora sobre el documento inicial).
