@@ -233,4 +233,15 @@ oUsuarios normales solo lectura.
 oAutenticación y autorización protegidas.
 
 Versión:
-Versión 1.3.
+Versión 1.3.
+
+
+Link a Trello:
+
+https://trello.com/b/ukkQCvOi/seminario-gestion-de-jugadores
+
+Miembros: Sergio Medina
+David Alejandro Paz
+
+Versión:
+Versión 1.4
