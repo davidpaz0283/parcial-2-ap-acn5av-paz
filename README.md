@@ -182,3 +182,55 @@ Se eligió una combinación de Scrum y Kanban para aprovechar lo mejor de ambas 
 
 Versión:
 Versión 1.2 (con actualización en metodología y estructura de trabajo).
+
+
+Historias de Usuario (HU)
+HU-01: Registro de usuario
+Como usuario nuevo, quiero registrarme en la aplicación para poder acceder y usar el sistema.
+
+Rol que la ejecuta: Usuario nuevo
+
+Criterios de aceptación:
+oEl formulario debe solicitar nombre, correo, contraseña y rol (administrador o usuario).
+oValidar que el correo no esté registrado previamente.
+oLa contraseña debe tener mínimo 8 caracteres.
+oAl registrarse correctamente, el usuario recibe un mensaje de confirmación.
+HU-02: Login de usuario
+Como usuario registrado, quiero iniciar sesión con mi correo y contraseña para acceder a mis funcionalidades según mi rol.
+Rol que la ejecuta: Todos los usuarios
+
+Criterios de aceptación:
+oValidar credenciales.
+oSi son correctas, dirigir al dashboard según rol.
+oSi son incorrectas, mostrar mensaje de error.
+HU-03: Gestión de jugadores (CRUD)
+Como administrador, quiero crear, editar, borrar y ver jugadores para mantener actualizada la base de datos del club.
+
+Rol que la ejecuta: Administrador
+
+Criterios de aceptación:
+oCrear jugador con nombre, apellido, posición y número.
+oEditar y borrar jugadores existentes.
+oMostrar lista completa de jugadores.
+oSolo administrador puede acceder a estas funciones.
+
+HU-04: Visualización de jugadores
+Como usuario, quiero ver la lista de jugadores para conocer la plantilla actual.
+
+Rol que la ejecuta: Usuario (Jugador, DT, Admin)
+
+Criterios de aceptación:
+oAcceso solo lectura.
+oMostrar nombre, apellido, posición y número.
+HU-05: Control de acceso por rol
+Como sistema, quiero que los usuarios tengan acceso limitado según su rol para proteger funciones administrativas.
+
+Rol que la ejecuta: Sistema / Todos los usuarios
+
+Criterios de aceptación:
+oAdministrador con acceso completo.
+oUsuarios normales solo lectura.
+oAutenticación y autorización protegidas.
+
+Versión:
+Versión 1.3.
